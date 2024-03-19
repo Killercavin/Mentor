@@ -57,7 +57,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="" class="get-started-btn">Get Started</a>
+      <a href="../login/" class="get-started-btn">Get Started</a>
 
     </div>
   </header><!-- End Header -->
@@ -87,7 +87,7 @@
                   <p class="price">$169</p>
                 </div>
 
-                <h3><a href="../course-details/">Website Design</a></h3>
+                <h3><a href="">Website Design</a></h3>
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -113,7 +113,7 @@
                   <p class="price">$250</p>
                 </div>
 
-                <h3><a href="../course-details/">Search Engine Optimization</a></h3>
+                <h3><a href="">Search Engine Optimization</a></h3>
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -139,7 +139,7 @@
                   <p class="price">$180</p>
                 </div>
 
-                <h3><a href="../course-details/">Copywriting</a></h3>
+                <h3><a href="">Copywriting</a></h3>
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
